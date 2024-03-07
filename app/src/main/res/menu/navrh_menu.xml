@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/saveItems"
+        android:title="Uložit hodnoty"/>
+    <item android:id="@+id/showItems"
+        android:title="Zobrazit poslední hodnotu"/>
+    <item android:id="@+id/deleteItems"
+        android:title="Smazat hodnoty"/>
+</menu>
